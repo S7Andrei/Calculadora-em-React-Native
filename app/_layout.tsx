@@ -33,7 +33,7 @@ export default function RootLayout() {
   return (
     <View style={styles.container}>
       <View style={styles.visor}>
-        <Text style={styles.display}>{expressao}</Text>
+        <Text style={styles.amostra}>{expressao}</Text>
         <Text style={styles.resultado}>
           {resultado !== "" ? `= ${resultado}` : " "}{" "}
           {/*Se estiver não estiver vazio, mostra. Se estiver, resultado mostra vazio. */}
@@ -124,13 +124,13 @@ const styles = StyleSheet.create({
     height: 90,
     justifyContent: "center",
     marginBottom: 15,
-    backgroundColor: "#f1f1f1",
+    backgroundColor: "#c9c8c8ff",
     borderRadius: 10,
     marginHorizontal: 20,
     paddingVertical: 10,
   },
 
-  display: {
+  amostra: {
     fontSize: 18,
     alignSelf: "flex-end",
     marginRight: 10,
