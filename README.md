@@ -144,7 +144,7 @@ Assim por diante aos outros
 }
 ```
 
-#Estilização
+Estilização
 
 Campo com as configurações e suas devidas estilizações, sendo exportada como styles para o módulo de indicativo para importar a classe devidamente criada.
 ```
