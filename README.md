@@ -2,6 +2,10 @@
 
 Desafio do professor Hugo. implementar uma calculadora em React-Native.
 
+Interface do protótipo
+<img width="673" height="819" alt="image" src="https://github.com/user-attachments/assets/e60efdac-3107-42bb-97fd-85711b088c0f" />
+
+Interface do sistema desenvolvido
 ![Image alt](https://github.com/S7Andrei/Calculadora-em-React-Native/blob/f8f466cbd4361aa43d5eaf7f1ad38d709cfb4d6a/assets/images/AppCalculadoraAndrei.png)
 
 # Explicação
