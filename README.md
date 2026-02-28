@@ -7,6 +7,7 @@ Interface do protótipo
 ![Image alt](https://github.com/S7Andrei/Calculadora-em-React-Native/blob/8ae26a10c90c7571b2ff1d172377ea4e85ab8579/assets/images/imagem%20de%20protoipo%20calc.png)
 
 Interface do sistema desenvolvido
+
 ![Image alt](https://github.com/S7Andrei/Calculadora-em-React-Native/blob/f8f466cbd4361aa43d5eaf7f1ad38d709cfb4d6a/assets/images/AppCalculadoraAndrei.png)
 
 # Explicação
