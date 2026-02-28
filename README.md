@@ -3,6 +3,7 @@
 Desafio do professor Hugo. implementar uma calculadora em React-Native.
 
 Interface do protótipo
+
 <img width="300" height="400" alt="image" src="https://github.com/user-attachments/assets/e60efdac-3107-42bb-97fd-85711b088c0f" />
 
 Interface do sistema desenvolvido
